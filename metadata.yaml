@@ -1,4 +1,5 @@
 _repo: Henkisotilaan-kertomuksia-Kustaa-Adolfin-historian-tapauksista_49952
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Ahava, Juho
@@ -6,12 +7,17 @@ contributor:
     deathdate: 1919
     gutenberg_agent_id: '6542'
     url: http://www.gutenberg.org/2009/agents/6542
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Carl Georg Starbäck
     gutenberg_agent_id: '45627'
     url: http://www.gutenberg.org/2009/agents/45627
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49952#Henkisotilaan-kertomuksia-Kustaa-Adolfin-historian-tapauksista
 gutenberg_issued: '2015-09-13'
 gutenberg_type: Text
 identifiers:
